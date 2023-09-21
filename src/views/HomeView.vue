@@ -20,7 +20,7 @@
 
       <div class="list">
         <div class="item" @click="movePage('/portfolio1')" data-aos="zoom-out-right"
-          style="background-image:url(/portfoli_mjc/top2.jpg)"></div>
+          style="background-image:url(/portfolio_mjc/top2.jpg)"></div>
         <div class="item" data-aos="zoom-in-left" style="background-image:url(/top2.jpg)"></div>
         <div class="item" data-aos="fade-up" data-aos-duration="3000" style="background-image:url(/top2.jpg)"></div>
         <div class="item" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"
