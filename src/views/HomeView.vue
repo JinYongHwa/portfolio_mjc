@@ -2,14 +2,14 @@
   <div>
     <div id="top">
       <swiper class="swiper" :slides-per-view="1" :space-between="50" @swiper="onSwiper" @slideChange="onSlideChange">
-        <swiper-slide style="background-image:url(/top1.jpg)" class="slide ">
+        <swiper-slide style="background-image:url(/portfolio_mjc/top1.jpg)" class="slide ">
           <div class="header">명지전문대 정보통신공학과 진용화</div>
 
         </swiper-slide>
-        <swiper-slide style="background-image:url(/top2.jpg)" class="slide">
+        <swiper-slide style="background-image:url(/portfolio_mjc/top2.jpg)" class="slide">
           <div class="header">명지전문대 정보통신공학과 진용화</div>
         </swiper-slide>
-        <swiper-slide style="background-image:url(/top3.jpg)" class="slide">
+        <swiper-slide style="background-image:url(/portfolio_mjc/top3.jpg)" class="slide">
           <div class="header">명지전문대 정보통신공학과 진용화</div>
         </swiper-slide>
       </swiper>
@@ -20,7 +20,7 @@
 
       <div class="list">
         <div class="item" @click="movePage('/portfolio1')" data-aos="zoom-out-right"
-          style="background-image:url(/top2.jpg)"></div>
+          style="background-image:url(/portfoli_mjc/top2.jpg)"></div>
         <div class="item" data-aos="zoom-in-left" style="background-image:url(/top2.jpg)"></div>
         <div class="item" data-aos="fade-up" data-aos-duration="3000" style="background-image:url(/top2.jpg)"></div>
         <div class="item" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine"
